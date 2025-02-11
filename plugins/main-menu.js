@@ -40,7 +40,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• fb2
 ┃◈┃• pinterest 
 ┃◈┃• spotify
-┃◈┃• play
+┃◈┃• song
 ┃◈┃• play2
 ┃◈┃• play3
 ┃◈┃• play4
@@ -296,7 +296,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023105228@newsletter',
-                        newsletterName: 'JawadTechX',
+                        newsletterName: 'MR DINESH',
                         serverMessageId: 143
                     }
                 }
