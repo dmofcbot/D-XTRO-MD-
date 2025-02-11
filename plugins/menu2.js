@@ -1,7 +1,7 @@
 const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
-    pattern: "menu2",
+    pattern: "menu",
     react: "👾",
     desc: "get cmd list",
     category: "main",
@@ -95,6 +95,18 @@ ${menu.search}
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
+   
+        image: { url: `https://i.postimg.cc/44vBQhjF/IMG-20250206-224743.jpg` },
+                caption: dec,
+                contextInfo: {
+                    mentionedJid: [m.sender],
+                    forwardingScore: 999,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363354023105228@newsletter',
+                        newsletterName: 'MR DINESH',
+                        serverMessageId: 143
+                    })                   
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
