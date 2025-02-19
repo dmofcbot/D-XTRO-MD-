@@ -10,7 +10,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*";
+const yourName = "*©ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ ᴅɪɴᴇꜱʜ ᴏꜰᴄ*";
 
 
 
